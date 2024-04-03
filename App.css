@@ -1,0 +1,28 @@
+.contacts{
+  width: 300px;
+  align-items: center;
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+}
+.contacts h2 {
+  color: #333;
+}
+
+.contacts img {
+  width: 150px; /* Set the width of the image */
+  height: 150px; /* Set the height of the image */
+  object-fit: cover; /* Maintain aspect ratio while covering the container */
+  border-radius: 70%; /* Make the image round */
+  margin-bottom: 20px; /* Add some space below the image */
+}
+
+.contacts p {
+  color: #666;
+}
+
+
+
+
+
